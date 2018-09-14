@@ -3,7 +3,8 @@
 
 \.gradle/
 \*/build/
-
+\*/out/
 *.iml
+
 
 
